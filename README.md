@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, mi nombre es Daniela Miñón</h1>
 <h3 align="center">Soy desarrolladora Front - end</h3>
 
-![esta es una imagn](https://i.pinimg.com/originals/ed/c8/49/edc8490e3e12bc2da432816af5b03265.jpg)
+![esta es una imagn](https://i.pinimg.com/originals/68/b0/72/68b072f089133509648dbfc29ec10974.jpg)
 
 
 Siempre me ha asombrado la capacidad que tenemos los seres
