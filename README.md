@@ -1,16 +1,30 @@
-### Hi there 👋, mi nombre es Daniela Miñón
-#### Soy estudiante Front - end  developer en @Laboratoria
-![Soy estudiante Front - end  developer en @Laboratoria](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-Soy curiosa, autodidacta, apasionada, risueña y colaborativa. Me encanta aprender cosas nuevas!
+<h1 align="center">Hola 👋, mi nombre es Daniela Miñón</h1>
+<h3 align="center">Soy desarrolladora Front - end</h3>
 
-Skills:  JS / HTML / CSS/GIT HUB/ GIT/ FIGMA/TRELLO 
+Siempre me ha asombrado la capacidad que tenemos los seres
+humanos para lograr objetivos cuando se trabaja
+colaborativamente. Entender las necesidades, pensamientos y
+emociones de los demás por medio de la empatía, la
+comunicación y el amor, me llevaron a desarrollar mis
+habilidades artísticas como actriz y posteriormente como
+docente.
+Ahora puedo utilizar esa sensibilidad, pasión y creatividad para
+crear soluciones tecnológicas innovadoras a través del
+Desarrollo Frontend, que tengan como foco siempre a las
+personas.
 
-- 🔭 I’m currently working on una página para crear notas en tablet 
-- 🌱 I’m currently learning React 
-- 📫 How to reach me: danielamideveloper@gmail.com 
-- 😄 Pronouns: ella 
-- ⚡ Fun fact: amo a los perritos, tengo un huertito. 
+- 🔭 Actualmente estoy desarrollando **una aplicación con React para resolver una problemática de trabajo asíncrono.**
 
+- 📫 Cómo contactarme **danielamideveloper@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DanielaMiOr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniela-mi%C3%B1%C3%B3n-ortega//)  
+- ⚡ Dato curioso **Soy amante de los perros, tengo un huerto en casa.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniela-mi%c3%b1%c3%b3n-ortega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniela-mi%c3%b1%c3%b3n-ortega/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
