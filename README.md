@@ -1,7 +1,10 @@
 
 <h1 align="center">Hola 👋, mi nombre es Daniela Miñón</h1>
 <h3 align="center">Soy desarrolladora Front - end</h3>
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.enciendemarketing.com%2Fdiseno-paginas-web%2Fportada-1-diseno-web-ordenador-agenda-marketing-digital%2F&psig=AOvVaw0GGTrMZlY2mQleamGqNtM8&ust=1652208534016000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiN65GL0_cCFQAAAAAdAAAAABAJ)
+
+![esta es una imagn](https://i.pinimg.com/originals/ed/c8/49/edc8490e3e12bc2da432816af5b03265.jpg)
+
+
 Siempre me ha asombrado la capacidad que tenemos los seres
 humanos para lograr objetivos cuando se trabaja
 colaborativamente. Entender las necesidades, pensamientos y
