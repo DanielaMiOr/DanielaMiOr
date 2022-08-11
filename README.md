@@ -17,7 +17,7 @@ crear soluciones tecnológicas innovadoras a través del
 Desarrollo Frontend, que tengan como foco siempre a las
 personas.
 
-- 🔭 Actualmente estoy desarrollando **una aplicación con React para resolver una problemática de trabajo asíncrono.**
+- 🔭 Actualmente estoy desarrollando **una aplicación con React para artículos de bebés.**
 
 - 📫 Cómo contactarme **danielamideveloper@gmail.com**
 
